@@ -1,4 +1,9 @@
-body.large
+.large
 {
 	font-size: 1.5em;
+}
+
+.narrow
+{
+	background-color: red;
 }
